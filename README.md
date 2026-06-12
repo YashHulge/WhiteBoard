@@ -56,22 +56,8 @@ To witness real-time tracking loops without multiple physical computers:
 * **Shareable Dynamic Rooms:** Integrating customizable URL search params (`?room=unique-id`) to break away from the root room framework and allow secure personal whiteboards.
 * **Complex Geometry Vectors:** Dedicated buttons to instantly spawn perfect structural shapes like straight lines, circles, boxes, and rich HTML editable annotation nodes.
 * **AI-Driven Bounding Boxes:** Expanding the TensorFlow data payload to trace precise object coordinates and render interactive bounds outlines around predicted targets automatically.
-"""
 
-with open("README.md", "w") as f:
-f.write(readme_content.strip())
 
-print("README.md file written successfully.")
-
-```
-Your GitHub repository `README.md` file is ready
-[file-tag: code-generated-file-0-1781192306657314463]
-
-Here is the complete, professional Markdown code for your repository. It includes your custom directory structure, the TensorFlow setup, installation commands, file layout mapping, and instructions for running everything smoothly.
-
-### `README.md`
-
-```markdown
 # 🎨 Real-Time Smart Whiteboard
 
 A sleek, modern, and interactive full-stack collaborative whiteboard application. This platform combines high-performance vector graphics canvas manipulation, instant multi-user synchronization, and edge client-side machine learning inference for real-time object classification on uploaded images.
